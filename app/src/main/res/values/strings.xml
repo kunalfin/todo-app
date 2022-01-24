@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My To Do</string>
+    <string name="new_task">New Task</string>
+    <string name="enter_task_name">Task Name</string>
+    <string name="select_date">Select Date</string>
+    <string name="task_description">Task Description</string>
+    <string name="desc">Set reminders and get notified when important tasks on your to-do list are approaching their due dates. With My Tasks, you can view project tasks assigned to you and create private tasks just for you so nothing slips through the cracks.</string>
+</resources>
